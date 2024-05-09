@@ -7,5 +7,5 @@ let isLoggedIn = true; //boolean datatype
 console.log(typeof age);
 console.log(typeof fullName);
 console.log(typeof isLoggedIn);
-console.log(typeof null);
-console.log(typeof undefined);
+console.log(typeof null); //this is a object datatype 
+console.log(typeof undefined); // this is undefined datatypes
